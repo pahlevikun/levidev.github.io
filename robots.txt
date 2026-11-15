@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://levidev.studio
+Sitemap: https://levidev.studio/sitemap.xml

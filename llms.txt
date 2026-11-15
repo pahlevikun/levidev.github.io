@@ -1,0 +1,47 @@
+# Levidev Studio
+
+> Levidev Studio is an agentic-first, open-source-first software studio. We build in seasons, mostly on weekends, and release our apps and agent skills on GitHub.
+
+We build the product, and the tools that build it.
+
+## Principles
+- Agentic first. Agents draft, search and test. A person reviews, decides and signs off. Speed comes from the loop, not from skipping it.
+- Open-source first. When we build a tool for ourselves, it ships on GitHub. Read the code before you trust it, and fork it if we stop.
+- Clarity first, built to last. Plain interfaces, written decisions and tests that explain intent, so the work still makes sense a year later.
+
+## What we make
+- Software Engineering: Mobile, web and backend software, built in the open.
+- Game Development: Small, polished games and playful interfaces.
+- AI Systems: Agent workflows, retrieval and the tooling around them.
+- UI & UX Design: Interfaces that explain themselves.
+- Software Publishing: Our own apps and agent skills, released in the open.
+
+## Tools
+- [Levistack](https://levidev.studio/tools/levistack/): Guide a coding agent through a checked workflow. It does not mark a step done without a check.
+  - Source: https://github.com/pahlevikun/levistack
+  - Install: `npx skills add pahlevikun/levistack`
+- [ApplyDiff](https://levidev.studio/tools/applydiff/): Review CV changes before exporting a PDF. It does not submit applications or invent numbers.
+  - Source: https://github.com/pahlevikun/applydiff
+- [mdz](https://levidev.studio/tools/mdz/): Turn a web page into Markdown. Fetching a page and keeping the result local are different steps. Check the repository for network behavior.
+  - Source: https://github.com/pahlevikun/mdz
+- [Sorot](https://levidev.studio/tools/sorot/): Open text tools at your cursor on Mac. Check the repository for what stays on the Mac in the current build.
+  - Source: https://github.com/pahlevikun/sorot
+- [Logo Kit SVG](https://levidev.studio/tools/logo-kit-svg/): Create four SVG logo files from your repo's colors. It does not invent a palette when the repo already has one.
+  - Source: https://github.com/pahlevikun/logo-kit-svg
+  - Install: `npx skills add pahlevikun/logo-kit-svg`
+- [Polyglot Copywriter](https://levidev.studio/tools/polyglot-copywriter/): Revise source text with language-specific writing guidance. An instruction not to add facts is not a guarantee of every model output.
+  - Source: https://github.com/pahlevikun/polyglot-copywriter
+  - Install: `npx skills add pahlevikun/polyglot-copywriter`
+- [seatpack](https://levidev.studio/tools/seatpack/): Copy Chrome profiles and Cursor, VS Code, and Android Studio plugins when you change Macs. An account that is already signed in stays in place.
+  - Source: https://github.com/pahlevikun/seatpack-chrome-backup
+  - Install: `npx skills@latest add pahlevikun/seatpack-chrome-backup`
+- [seatsweep](https://levidev.studio/tools/seatsweep/): Scan a Mac account and delete only the categories you name. It does not erase the Mac, delete the user, or sign out of iCloud.
+  - Source: https://github.com/pahlevikun/seatsweep-macos-cleanup
+  - Install: `npx skills@latest add pahlevikun/seatsweep-macos-cleanup`
+
+## Contact
+- Email: hello@levidev.studio
+- LinkedIn: https://www.linkedin.com/company/levidev-studio/
+- Google Maps: https://share.google/BlvXj4KeoMLf4NjYo
+- Founder: Farhan Yuda Pahlevi, AI-Native Engineer (https://www.linkedin.com/in/pahlevikun, https://pahlevikun.id)
+- GitHub: https://github.com/pahlevikun
