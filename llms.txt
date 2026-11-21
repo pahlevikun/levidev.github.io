@@ -1,6 +1,6 @@
 # Levidev Studio
 
-> Levidev Studio is an agentic-first, open-source-first software studio. We build in seasons, mostly on weekends, and release our apps and agent skills on GitHub.
+> Levidev Studio builds open-source-first software: developer tools, Chrome extensions, apps and AI agent skills. A small studio, started as a weekend project.
 
 We build the product, and the tools that build it.
 
