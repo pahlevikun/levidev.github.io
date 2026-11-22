@@ -38,6 +38,9 @@ We build the product, and the tools that build it.
 - [seatsweep](https://levidev.studio/tools/seatsweep/): Scan a Mac account and delete only the categories you name. It does not erase the Mac, delete the user, or sign out of iCloud.
   - Source: https://github.com/pahlevikun/seatsweep-macos-cleanup
   - Install: `npx skills@latest add pahlevikun/seatsweep-macos-cleanup`
+- [Evidence-first App Builder](https://levidev.studio/tools/evidence-first-app-builder/): Plan an app stage by stage, with docs and design before code. A checklist tick needs proof, not an agent's word.
+  - Source: https://github.com/pahlevikun/evidence-first-app-builder
+  - Install: `npx skills add pahlevikun/evidence-first-app-builder`
 
 ## Contact
 - Email: hello@levidev.studio
